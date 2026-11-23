@@ -1,5 +1,5 @@
 ---
-name: cc-knowledge-butler-007
+name: cc-knowledge-007
 version: 0.2.0
 display_name: CC知识库管家007
 display_name_en: CC Knowledge Butler 007
